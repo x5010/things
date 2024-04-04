@@ -8,3 +8,6 @@ python3 triforce.master.py
 Specify the number of rows.  
 ???  
 PROFIT!!!
+
+
+by [Elisson](https://t.me/Elisson) & [antoniow0](https://t.me/antoniow0)
